@@ -1,0 +1,3 @@
+# Regenerate with: uv pip compile --universal --no-sources requirements.in -o requirements.lock.txt
+nbformat
+openai
