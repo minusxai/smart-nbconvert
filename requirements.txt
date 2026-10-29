@@ -1,2 +1,2 @@
-nbformat
-openai
+nbformat==5.11.1
+openai==3.41.0
